@@ -30,8 +30,8 @@ bash
 
 Copier le code
 
-`git clone https://github.com/your-username/project-name.git
-cd project-name` 
+`git clone https://github.com/Axeldalmazir/flask_crud_app.git
+cd flask_crud_app` 
 
 ### 2. Install Back-end Dependencies
 
